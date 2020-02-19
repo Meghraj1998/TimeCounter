@@ -1,0 +1,227 @@
+body{
+
+    background-color: black;
+}
+
+#abc{
+
+    border:red 1px solid;
+    width: 30px;
+    height:40px;
+     
+ 
+
+
+
+}
+
+button{
+    
+  
+  
+    overflow:hidden;
+   
+}
+
+button span{
+     
+     
+     
+
+}
+ 
+
+ 
+ 
+div.animate{
+ 
+
+    transition: all 0.5s;
+
+    margin-top: 0px !important;
+
+
+}
+ 
+
+.container{
+
+    
+    
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(72,178,181,1) 35%, rgba(0,255,229,1) 62%, rgba(0,212,255,1) 92%);
+    width: 80%;
+    height: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 3px;
+    color: white;
+ 
+
+
+}
+
+#valuecontainer{
+ 
+margin-top: 20px;
+
+
+}
+
+#valuecontainer input[type="text"]{ 
+
+      width:190px;
+      height: 25px;
+      border: grey 1px solid;
+      outline: none;
+      font-size: 100%;
+      padding:4px;
+      
+
+
+}
+#valuecontainer input {
+
+
+}
+
+.container #button{
+   margin-top: 10px;
+   width:20%;
+   height: 17%;
+   border-radius: 10px;
+   font-weight: 500;
+   font-size: medium;
+   box-shadow: 0px 0px 3px 3px white;
+   outline: none;
+
+}
+
+.container #button:hover{
+
+    background-color: lightblue;
+
+}
+
+
+.timecontainer{
+
+    margin-top: 30px;
+    width: 80%;
+    height: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    border:whitesmoke 1px solid;
+    background-color:grey;
+      display: flex;
+      flex-direction: row-reverse;
+      
+     
+
+}
+
+#divclass{
+
+    border:5px solid whitesmoke;
+    
+    margin-right:2%;
+    
+    height: 70px;
+    width: 70px;
+    margin-top:10px;
+    overflow: hidden;
+    background-color: white;
+    padding-top: 0px;
+
+
+
+
+
+ }
+
+ #id{
+
+    
+    width: 100%;
+    height: 97%;
+     
+     margin-top: 0px;
+     
+     text-align: center;
+     border-top: 1px solid black;
+     margin-top: 90px;
+
+
+
+ }
+
+  
+ 
+
+ div.animate{
+ 
+
+    transition: all 0.5s;
+    font-weight: bold; 
+    font-size: 40px;
+
+    margin-top: 0px !important;
+
+
+}
+
+#current{
+
+    font-weight: bold; 
+    font-size: 30px;
+    text-align: center;
+    margin-top: 12px;
+
+
+}
+.current{
+
+    font-weight: bold; 
+    font-size: 30px;
+    text-align: center;
+    margin-top: 12px;
+
+
+}
+
+main{
+
+  
+    width: 80%;
+    height: 90%;
+    padding: 5%;
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    background: rgb(2,0,36);
+    background-color: lightblue;
+ 
+    
+
+
+}
+
+.divclass1{
+
+    border:5px solid whitesmoke;
+    margin-right: 5%;
+    
+    height: 70px;
+    width: 70px;
+    margin-top:10px;
+    overflow: hidden;
+    background-color: white;
+    padding-top: 0px;
+    
+
+
+
+
+
+ }
